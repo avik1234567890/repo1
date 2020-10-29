@@ -1,0 +1,641 @@
+<html>
+<head>
+    <title>[#BALWEBTT-821] Xtd PRT2EDS/WebTT/N/A : Z_PRT00108554A : WEBTICKET_CreateARSTicketRequest_ Attachment_ISSUE_Add_Atachment_Existing_TA</title>
+        <META HTTP-EQUIV="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+    <style type="text/css">
+    *
+    {
+        border: 0;
+        padding: 0;
+    }
+
+    .tableBorder, .grid
+    {
+        background-color: #fff;
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    h3.formtitle
+    {
+    }
+
+    .tableBorder td, .grid td
+    {
+        vertical-align: top;
+        padding: 2px;
+        border: 1px solid #cccccc;
+        border-collapse: collapse;
+    }
+
+.noPadding
+{
+    padding: 0px !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border-top: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    padding: 2px;
+    border-collapse: collapse;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+
+#descriptionArea
+{
+    margin: 0px;
+    padding: 2px;
+    border: 1px solid #cccccc;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0px;
+  background: #fff url('http://ipm.vfeds.local:8080/jira/images/icons/hr.gif') no-repeat scroll center;
+}
+
+body
+{
+    margin: 0px;
+    font-size: 12px;
+    font-family: Arial, Sans-Serif, sans-serif;
+    color:black;
+}
+
+</style>
+
+</head>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#000" vlink="#000" alink="#000">
+
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [BALWEBTT-821]&nbsp;<a href="http://ipm.vfeds.local:8080/jira/browse/BALWEBTT-821">Xtd PRT2EDS/WebTT/N/A : Z_PRT00108554A : WEBTICKET_CreateARSTicketRequest_ Attachment_ISSUE_Add_Atachment_Existing_TA</a>
+            <span class="subText">
+               Created: 2020-02-28 15:31 CET                   &nbsp;Updated: 2020-03-26 13:32 CET
+
+                                    &nbsp;Due: 2020-03-27 15:31 CET
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Delivered</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="http://ipm.vfeds.local:8080/jira/secure/BrowseProject.jspa?id=11282">BAL-WEBTT</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            VF Problem
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Prio 3
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                    <a href="http://ipm.vfeds.local:8080/jira/secure/ViewProfile.jspa?name=ossjproxy">Vodafone</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    <a href="http://ipm.vfeds.local:8080/jira/secure/ViewProfile.jspa?name=aroy01">ROY CHODHURY, Avik</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            DXC: solution
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Environment:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            Acceptance test
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor=f0f0f0 width=20% valign=top>
+                <b>File Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                                            <img src="http://ipm.vfeds.local:8080/jira/images/icons/attach/file.gif" height="16" width="16" border="0" vspace="1" align="absmiddle" alt="File">
+                                        Anhang anlegen am Ticket TA0100011376931.msg &nbsp;&nbsp;&nbsp;
+                                                            <img src="http://ipm.vfeds.local:8080/jira/images/icons/attach/pdf.gif" height="16" width="16" border="0" vspace="1" align="absmiddle" alt="PDF File">
+                                        DXC SYSTEM TEST BALWEBTT-821.pdf &nbsp;&nbsp;&nbsp;
+                                                            <img src="http://ipm.vfeds.local:8080/jira/images/icons/attach/word.gif" height="16" width="16" border="0" vspace="1" align="absmiddle" alt="Microsoft Word">
+                                        TA Attachments not  added and missing Comment.doc &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Summary2:</b></td>
+                <td bgcolor="#ffffff" width="80%">      n.a.
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Ticket Summary:</b></td>
+                <td bgcolor="#ffffff" width="80%">      WEBTICKET_CreateARSTicketRequest_ Attachment_ISSUE_Add_Atachment_Existing_TA
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Linked Tickets:</b></td>
+                <td bgcolor="#ffffff" width="80%">      =, =, =, =n.a., =n.a., 
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer comments:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Logfiles uploaded    to the  DXC Sharpoint
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Plan Delivery Date:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-27 15:31 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Delivery ID:</b></td>
+                <td bgcolor="#ffffff" width="80%">      n.a.
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Project-Mngt ID:</b></td>
+                <td bgcolor="#ffffff" width="80%">      n.a.
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Market:</b></td>
+                <td bgcolor="#ffffff" width="80%">  VFD2 both
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Business Impacts:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Service  impact
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Production Indicator:</b></td>
+                <td bgcolor="#ffffff" width="80%">  Y
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Top List:</b></td>
+                <td bgcolor="#ffffff" width="80%">  N
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Required for Release:</b></td>
+                <td bgcolor="#ffffff" width="80%">  n.a.
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Identified in Release:</b></td>
+                <td bgcolor="#ffffff" width="80%">  n.a.
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Type:</b></td>
+                <td bgcolor="#ffffff" width="80%">  Software
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>PROD Check:</b></td>
+                <td bgcolor="#ffffff" width="80%">  no
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Problem Category:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Xtd PRT2EDS/WebTT/N/A
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Test Stages/Production (Problem):</b></td>
+                <td bgcolor="#ffffff" width="80%">  Acceptance test
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Substatus:</b></td>
+                <td bgcolor="#ffffff" width="80%">  Delivered
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Developer:</b></td>
+                <td bgcolor="#ffffff" width="80%">      ROY CHODHURY, Avik
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Tester:</b></td>
+                <td bgcolor="#ffffff" width="80%">      ROY CHODHURY, Avik
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>TTWOS emergency flag:</b></td>
+                <td bgcolor="#ffffff" width="80%">  No
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>responsible team:</b></td>
+                <td bgcolor="#ffffff" width="80%">  BAL_AD-EO
+</td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer Troublenumber:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Z_PRT00108554A
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer Name:</b></td>
+                <td bgcolor="#ffffff" width="80%">      klaus.amrhein
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer Organizationname:</b></td>
+                <td bgcolor="#ffffff" width="80%">      VF-DE
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer Email:</b></td>
+                <td bgcolor="#ffffff" width="80%">      <a href='mailto:klaus.amrhein@vodafone.com'>klaus.amrhein@vodafone.com</a>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer Phone:</b></td>
+                <td bgcolor="#ffffff" width="80%">      0049 69 2169 3215
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>VF Identified by group:</b></td>
+                <td bgcolor="#ffffff" width="80%">      ENT_IT_ONLINE_SOLUTIONS
+  </td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Clearance Company:</b></td>
+                <td bgcolor="#ffffff" width="80%">      ADM-EDS-DE-V
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Resolution Description:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Kindly check the system test document and release note. 
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>RCA State:</b></td>
+                <td bgcolor="#ffffff" width="80%">  none
+</td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Trouble Detected:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-02-28 15:24 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Originator:</b></td>
+                <td bgcolor="#ffffff" width="80%">      VF-DE
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer Assigned Trouble Type:</b></td>
+                <td bgcolor="#ffffff" width="80%">      ITT_Problem
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>OSSJ Status:</b></td>
+                <td bgcolor="#ffffff" width="80%">      DISPATCHEDIN
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>OSSJ State:</b></td>
+                <td bgcolor="#ffffff" width="80%">      OPENACTIVE
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>applicationDN:</b></td>
+                <td bgcolor="#ffffff" width="80%">      System/EDSTroubleTicketSystem/ApplicationType/TroubleTicket/Application/1-0;1-0;EDSTroubleTicket
+  </td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Suspected Objects:</b></td>
+                <td bgcolor="#ffffff" width="80%">      VFD2 both, , , , Service  impact, , Y, , N, SLA all, , , n.a., n.a., , , , Software, no, WEBTICKET_CreateARSTicketRequest_ Attachment_ISSUE_Add_Atachment_Existing_TA, 
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Trouble Object:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Other
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Customer last update:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-09 09:29 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Root Cause completed:</b></td>
+                <td bgcolor="#ffffff" width="80%">  No
+</td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Problem Delivered In Time:</b></td>
+                <td bgcolor="#ffffff" width="80%">  Yes
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Last Answered Date:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-26 13:21 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Allowed SLA Minutes:</b></td>
+                <td bgcolor="#ffffff" width="80%">      12000
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>SLA Minutes Elapsed:</b></td>
+                <td bgcolor="#ffffff" width="80%">    11270
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>SLA Relevance:</b></td>
+                <td bgcolor="#ffffff" width="80%">  SLA all
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>SLAResponseDue:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-02 09:31 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>First Response Time:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-02-28 15:37 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Last Satged Date:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-26 13:10 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Last VND-Re-test-passed Date:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-26 13:20 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Extension Date Set:</b></td>
+                <td bgcolor="#ffffff" width="80%">  No
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Last In Process:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-26 13:10 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Service Class Name:</b></td>
+                <td bgcolor="#ffffff" width="80%">      Business Standard
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Top Service:</b></td>
+                <td bgcolor="#ffffff" width="80%">      False
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Allowed Response Minutes:</b></td>
+                <td bgcolor="#ffffff" width="80%">      240
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Response minutes Elapsed:</b></td>
+                <td bgcolor="#ffffff" width="80%">    6
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Due date by Service:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-27 15:31 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>SLAResponseDue by Service:</b></td>
+                <td bgcolor="#ffffff" width="80%">            2020-03-02 09:31 CET
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>SLA Minutes&#xA0; Elapsed by service:</b></td>
+                <td bgcolor="#ffffff" width="80%">      11270
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Allowed Response minutes by Service:</b></td>
+                <td bgcolor="#ffffff" width="80%">      240
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Allowed SLA minutes by Service:</b></td>
+                <td bgcolor="#ffffff" width="80%">      12000
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Response Minutes Elapsed by Service:</b></td>
+                <td bgcolor="#ffffff" width="80%">      6
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            Ticketcreator: klaus.amrhein<br/>
+WEBTICKET_CreateARSTicketRequest_ Attachment_ISSUE_Add_Atachment_Existing_TA<br/>
+<br/>
+Klaus Amrhein<br/>
+Preprod IT<br/>
+V 2.0.46<br/>
+<br/>
+Hi  all ,<br/>
+We have    got  customer  complain , about  lost Attachments and  lost Comments.<br/>
+We have   verified das issue in PREPROD_IT, same  version as in Production.<br/>
+see   attached doc.<br/>
+Logfiles are   saved  an   can be  provided  if required.<br/>
+The  issue  should be reproducabel at your environemtn  also.<br/>
+<br/>
+Kind  Regards,<br/>
+Klaus <br/>
+<br/>
+<br/>
+Atachment : TA Attachments not  added and missing Comment.doc<br/>
+<br/>
+//opt/SP/rg/gpwtki01/aaw/it/wtk/logs/itwebttDom/itwebtt_MS11/preprod_it_ngcs.log.11.gz:<br/>
+//opt/SP/rg/gpwtki01/aaw/it/wtk/logs/itwebttDom/itwebtt_MS11/preprod_it_ngcs.log..gz:<br/>
+<br/>
+Melder:<br/>
+Unternehmen = <br/>
+Nachname / Firma (+)= Amrhein<br/>
+Vorname Kunde = Klaus<br/>
+Standort = <br/>
+Abteilung = <br/>
+Raum = <br/>
+Meldeweg = TTWOS<br/>
+Telefon = <br/>
+e-Mail Adresse =&#xA0;<a href='mailto:klaus.amrhein@vodafone.com'>klaus.amrhein@vodafone.com</a><br/>
+<br/>
+PRT-spezifisch:<br/>
+Termin =&#xA0;<br/>
+Problemerkennung=Reaktiv
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-292311"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                <a href="http://ipm.vfeds.local:8080/jira/secure/ViewProfile.jspa?name=aroy01">ROY CHODHURY, Avik</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">2020-03-26 13:20 CET</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-292311"><td bgcolor="#ffffff">
+            Tested this ticket in Mobile dev and test environment for the following test scenarios.<br/>
+<br/>
+Scenario# 1: New incident fixed-net &amp; mobile for attachment size and attachment comment.<br/>
+Scenario# 2: Existing incident fixed-net &amp; mobile for attachment size and attachment comment. <br/>
+<br/>
+Scenario# 1 is completely tested successfully with 3 minor observations(Kindly check the attached system test document for the reference). All of these 3 observations are existing functionality hence kept unchanged. <br/>
+<br/>
+Scenario# 2 is not tested in the system test as we are using MOCK responses to populate the ticket. Updating the existing MOCK would require a lot of analysis and time.  <br/>
+
+        </td></tr>
+                <tr id="comment-header-292312"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                <a href="http://ipm.vfeds.local:8080/jira/secure/ViewProfile.jspa?name=sd">DXC Service Desk</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">2020-03-26 13:21 CET</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-292312"><td bgcolor="#ffffff">
+            Developer :ROY CHODHURY, Avik<br/>
+Tester :ROY CHODHURY, Avik
+        </td></tr>
+            </table>
+Generated at Thu Mar 26 13:34:24 CET 2020 by ROY CHODHURY, Avik using JIRA Enterprise Edition, Version: 3.12.3-studio-1-#303.
+
+</body>
+</html>
