@@ -1,0 +1,16 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1690-E611
+
+ Directory of C:\Users\achoudhury20\OneDrive - DXC Production\Desktop\Desktop
+
+29-10-2020  22:16    <DIR>          .
+29-10-2020  22:16    <DIR>          ..
+29-10-2020  22:13    <DIR>          .git
+27-10-2020  09:41    <DIR>          BALWEBTT-821
+27-10-2020  09:40    <DIR>          BALWEBTT-838
+15-10-2020  14:29         4,230,693 Functional Testing Document_VFCenter V1.0.docx
+29-10-2020  09:44         1,283,548 Proxy42.docx
+23-10-2020  16:19         1,080,999 Reptile.docx
+29-10-2020  22:16                 0 text.txt
+               4 File(s)      6,595,240 bytes
+               5 Dir(s)  330,185,113,600 bytes free
