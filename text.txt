@@ -1,5 +1,0 @@
-
-
-My new text file.
-Change is here.
-Chnages done from the myfirstbranch.
