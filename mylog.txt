@@ -1,0 +1,77 @@
+[33mcommit 1667f53d04454c114f4384d311a2aef9b5efdfc5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.6[m[33m)[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Sat Oct 31 09:54:43 2020 +0530
+
+    changes made in text_email.txt
+
+[33mcommit 15d324261e319a4ffa7026d50e6c06db02b064a2[m[33m ([m[1;33mtag: V1.5[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Sat Oct 31 09:38:54 2020 +0530
+
+    commiting the changes for v1.5.txt
+
+[33mcommit b2e6e057e59c725b6a271a4b9e08c7dd09a7afb1[m[33m ([m[1;33mtag: V1.4[m[33m)[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Sat Oct 31 09:36:18 2020 +0530
+
+    v1.4 created
+
+[33mcommit 8a28fee3ab996588a752b67bc6bafe83ce6b9ac1[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Sat Oct 31 09:31:49 2020 +0530
+
+    master_V1.3.txt commiting
+
+[33mcommit 5c8092f2df54491631b181945660c980f8c270f5[m[33m ([m[1;33mtag: V1.3[m[33m, [m[1;33mtag: V1.1[m[33m, [m[1;33mtag: V1.0[m[33m)[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Fri Oct 30 13:37:10 2020 +0530
+
+    commiting the changes for 2ndbranch
+
+[33mcommit 478ffba7316798df0333ed191dbafbedcdd9ed94[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Fri Oct 30 13:32:50 2020 +0530
+
+    testing the email
+
+[33mcommit 317a8e498e8856ea7026df89bd879f32b7c4977e[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Fri Oct 30 12:58:06 2020 +0530
+
+    test1.txt is udpated from myfirstbranch
+
+[33mcommit 9428be4476b478e74668321b942e8fdc09be8216[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Fri Oct 30 12:56:28 2020 +0530
+
+    5th commit from myfirstbranch
+
+[33mcommit 3b8a0e22faaac9531a5fd53319247a6c5cb09cf6[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Fri Oct 30 12:48:12 2020 +0530
+
+    4th commit for the myfirstbranch
+
+[33mcommit 7fd714321715f23c1a6d92b8fb8c337ef5278c8d[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Thu Oct 29 23:12:56 2020 +0530
+
+    4th commit
+
+[33mcommit 35c025d1a3c571b0fe2ebe24f29da17f53c5e067[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Thu Oct 29 22:45:19 2020 +0530
+
+    my third commit
+
+[33mcommit d79f4df0110e1e672dc026387256081ec787e348[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Thu Oct 29 22:42:15 2020 +0530
+
+    second commit
+
+[33mcommit 15860d3bb41df32b30b2d06f546d3effbf4a464c[m
+Author: Choudhury <avik-roy.choudhury@dxc.com>
+Date:   Thu Oct 29 22:24:25 2020 +0530
+
+    my first git commit
